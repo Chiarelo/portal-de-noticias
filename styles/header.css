@@ -1,0 +1,27 @@
+#menu-primary {
+    display: flex;
+    justify-content: space-between;
+
+    padding-block: 20px;
+    line-height: 0;
+    
+
+    a {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        font: var(--h2);
+    }
+}
+
+nav#menu-secondary {
+    color: var(--text-color-secondary);
+    font: var(--span);
+    justify-content: space-between;
+    padding-block: 14px;
+
+    a:hover {
+        color: var(--brand-color-light);
+    }
+    
+}
