@@ -19,6 +19,8 @@ nav#menu-secondary {
     font: var(--span);
     justify-content: space-between;
     padding-block: 14px;
+    border-block: 1px solid var(--stroke-color);
+
 
     a:hover {
         color: var(--brand-color-light);

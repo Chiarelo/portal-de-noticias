@@ -38,16 +38,12 @@ body {
     padding-inline: 32px;
 }
 
+img {
+    width: 100%;
+}
+
 a {
     color: inherit;
     text-decoration: none;
     font: inherit;
-}
-
-.grid {
-    display: grid;
-}
-
-.grid-auto-column {
-    grid-auto-flow: column;
 }
