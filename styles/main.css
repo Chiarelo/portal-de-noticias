@@ -72,7 +72,7 @@ section header {
 
 section #news {
     grid-template-columns: repeat(4, 292px);
-    margin-top: 24px;
+    margin-block: 24px;
 
     figure {
         position: relative;
@@ -87,6 +87,10 @@ section #news {
             position: absolute;
             top: 0;
             margin: 8px;
+        }
+
+        figcaption {
+            margin-top: 8px;
         }
     }
 
