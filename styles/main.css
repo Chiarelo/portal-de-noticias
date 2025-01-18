@@ -96,3 +96,20 @@ section #news {
 
 
 }
+
+section#ai{
+        figure {
+            margin-top: 24px;
+            figcaption {
+                h2 {
+                    margin-block: 4px 8px;
+                }
+            }
+
+            img {
+                width: 176px;
+                aspect-ratio: 1/1;
+                object-fit: cover;
+            }
+        }
+}
