@@ -30,15 +30,18 @@
     font: var(--h3);
 }
 
+.text-sm {
+    font: var(--paragraph);
+}
+
 
 
 .content-tag {
-    font-weight: 500;
-    font-size: 10px;
     display: inline-block;
-    padding: 4px 8px;
     background-color: var(--brand-color-dark);
+    padding: 4px 8px;
     border-radius: 4px;
+    font: 500 10px/1.2 var(--font-family);
     text-transform: uppercase;
     letter-spacing: 0.04em;
     color: var(--text-color-primary);

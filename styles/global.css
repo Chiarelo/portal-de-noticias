@@ -39,11 +39,26 @@ body {
 }
 
 img {
-    width: 100%;
+    max-width: 100%;
 }
 
 a {
     color: inherit;
     text-decoration: none;
     font: inherit;
+}
+
+main {
+    display: grid;
+    grid-template-areas: 
+    "highlights highlights"
+    "weekly weekly"
+    "ai aside";
+
+    column-gap: 32px;
+    row-gap: 80px;
+
+    grid-template-columns: 2fr 1.4fr;
+
+    padding-bottom: 80px;
 }
