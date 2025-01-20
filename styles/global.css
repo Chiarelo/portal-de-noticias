@@ -1,8 +1,3 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
 
 :root {
 
@@ -26,39 +21,3 @@
     --text-color-secondary: #CBD5E1;
 }
 
-body {
-    background-color: var(--bg-color);
-    color: var(--text-color-primary);
-    font: var(--paragraph);
-}
-
-.container {
-    max-width: 1280px;
-    margin: 0 auto;
-    padding-inline: 32px;
-}
-
-img {
-    max-width: 100%;
-}
-
-a {
-    color: inherit;
-    text-decoration: none;
-    font: inherit;
-}
-
-main {
-    display: grid;
-    grid-template-areas: 
-    "highlights highlights"
-    "weekly weekly"
-    "ai aside";
-
-    column-gap: 32px;
-    row-gap: 80px;
-
-    grid-template-columns: 2fr 1.4fr;
-
-    padding-bottom: 80px;
-}
