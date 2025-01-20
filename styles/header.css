@@ -15,9 +15,9 @@
 }
 
 #menu-secondary {
-    display: grid;
-    grid-auto-flow: column;
     justify-content: space-between;
+    padding-block: 14px;
+    border-block: 1px solid var(--stroke-color);
 
     font: var(--text-span);
     color: var(--text-color-secondary);
