@@ -57,4 +57,30 @@ section header {
       }
 }
 
+#weekly {
+    & > div {
+        grid-template-columns: repeat(4, 292px);
+      }
 
+    figure {
+        position: relative;
+        
+        img {
+            height: 160px;
+            object-fit: cover;
+        }
+
+        figcaption {
+            .content-tag {
+                position: absolute;
+                top: 8px;
+                left: 8px;
+            }
+
+            h2 {
+                margin-top: 8px;
+                font-weight: 800;
+            }     
+        }
+    }
+}
