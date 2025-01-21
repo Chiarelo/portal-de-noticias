@@ -40,6 +40,10 @@ body {
     padding-inline: 32px;
 }
 
+main {
+    margin-block: 40px;
+}
+
 a {
     font: inherit;
     color: inherit;
