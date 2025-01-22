@@ -26,7 +26,7 @@
 
 <p align="center">💻 <b>Para PC:</b></p>
 <p align="center">
-  <img alt="Projeto" src="https://github.com/user-attachments/assets/28821e82-0a4d-4f98-b14c-9717ef7e45b5">
+  <img alt="Projeto" src="https://github.com/user-attachments/assets/c057fb4f-9992-4b42-b71f-6793e9aaded1">
 </p>
 
 <!--
