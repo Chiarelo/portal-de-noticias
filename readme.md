@@ -47,7 +47,7 @@ Esse projeto foi desenvolvido utilizando:
 
 ## 🔗 Link do Projeto
 
-Para acessar o projeto <a href="https://projeto-portal-de-noticias-one.vercel.app/" target="_blank">Clique Aqui</a>.
+Para acessar o projeto <a href="https://portal-de-noticias-rust.vercel.app/" target="_blank">Clique Aqui</a>.
 
 ## 📝 Licença
 
