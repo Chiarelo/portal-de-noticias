@@ -27,5 +27,6 @@
     #menu-secondary {
         gap: 32px;
         overflow-x: scroll;
+        white-space: nowrap;
     }
 }
