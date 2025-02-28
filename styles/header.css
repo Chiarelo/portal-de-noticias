@@ -22,3 +22,10 @@
     font: var(--text-span);
     color: var(--text-color-secondary);
 }
+
+@media (width <= 48em){
+    #menu-secondary {
+        gap: 32px;
+        overflow-x: scroll;
+    }
+}
